@@ -1,10 +1,10 @@
 Package: descriptivestats
 Type: Package
-Title: use the package for descriptive statistics.
+Title: use the package for descriptive Statistics.
 Version: 0.1.0
 Author: rahul cr
 Maintainer: rahul cr <rahulcr220@gmail.com>
-Description: use the package for decriptive statistics and plots the data in to boxplots and histogram
+Description: use the package for Decriptive Statistics and plots the data in to boxplots and histogram
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
